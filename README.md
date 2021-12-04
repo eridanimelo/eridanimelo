@@ -13,8 +13,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"> 
-  <img align="center" height="30" width="40" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> 
+  <img align="center" height="40" width="80" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">  
 </div>
   
   ##
