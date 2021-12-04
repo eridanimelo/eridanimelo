@@ -14,8 +14,14 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"> 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> 
-  <img align="center" height="40" width="80" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">  
+  
+
 </div>
+  
+  <div style="display: inline_block">
+    <img align="center" height="40" width="80" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">  
+    <img align="center" height="100" width="130" src="https://hibernate.org/images/hibernate-logo.svg">  
+  </div>
   
   ##
  
