@@ -20,7 +20,7 @@
 </div>
   
   <div style="display: inline_block">
-    <img align="center" height="40" width="80" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">  
+    <img align="center" height="20" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png">  
     <img align="center" height="100" width="130" src="https://hibernate.org/images/hibernate-logo.svg">  
   </div>
   
