@@ -31,7 +31,7 @@
 </div>
  
   <div> 
-  <a href="https://www.estadosdobrasil.com.br/" target="_blank"><img height="30" width="40" src="https://www.estadosdobrasil.com.br/assets/bandeiras/Bandeira%20do%20Brasil.png" target="_blank"></a> 
+  <a href="https://archenar.com/" target="_blank"><img height="70" width="80" src="https://archenar.com/assets/img/Archenar.svg" target="_blank"></a> 
 </div>
   
   
